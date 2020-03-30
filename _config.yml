@@ -29,8 +29,12 @@ github_username:  dirusali
 
 # Build settings
 theme: minima
+markdown: kramdown
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
