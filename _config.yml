@@ -22,9 +22,9 @@ title: Blog of Diego Ruiz
 email: dirusali@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog trying to reconciliate probability and causality in the age of machine learning
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "dirusali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: dirusali
 github_username:  dirusali
 
 # Build settings
